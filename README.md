@@ -60,7 +60,6 @@ Total Cost
 📊 Interactive Dashboard
 
 Developed using Plotly + Shiny, enabling:
-
 Revenue analysis by region
 Profit analysis by item type
 Sales trends over time
