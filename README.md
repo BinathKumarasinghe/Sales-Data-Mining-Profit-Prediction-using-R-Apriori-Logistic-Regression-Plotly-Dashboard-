@@ -52,7 +52,6 @@ Unit Price
 Total Cost
 
 📊 Interactive Dashboard
-
 Developed using Plotly + Shiny, enabling:
 
 Revenue analysis by region
@@ -65,6 +64,6 @@ Logistic regression insights
 North America & Europe lead in profitability
 Office Supplies & Household items dominate sales
 Seasonal trends (Q4 peaks) observed
-🎯 Conclusion
 
+🎯 Conclusion
 This project demonstrates how combining data mining + machine learning + visualization can generate actionable business insights. It highlights the importance of data-driven strategies in optimizing sales, marketing, and operational decisions.
